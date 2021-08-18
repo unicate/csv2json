@@ -81,6 +81,3 @@ print('\nGenerate JSON file: ')
 print('*******************')
 print('Filename Input:', csvFilePath)
 print('Filename Output:', jsonFilePath)
-
-
-#@Todo: Custom delimiter input / Delimiter detection
