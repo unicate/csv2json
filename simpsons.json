@@ -1,0 +1,562 @@
+[
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Homer",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Marge",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Bart",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Lisa",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Maggie",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Akira",
+        "lastname": "Kurosawa"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "",
+        "lastname": "Albright"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Aristotle",
+        "lastname": "Amadopolis"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Mary",
+        "lastname": "Bailey"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Birchibald",
+        "lastname": "Barlow"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Jasper",
+        "lastname": "Beardly"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Jacqueline",
+        "lastname": "Bouvier"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Patty",
+        "lastname": "Bouvier"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Selma",
+        "lastname": "Bouvier"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Kent",
+        "lastname": "Brockman"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Bumblebee Man"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Charles Montgomery",
+        "lastname": "Burns"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Carl",
+        "lastname": "Carlson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "",
+        "lastname": "Crazy Cat Lady"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Gary",
+        "lastname": "Chalmers"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Scott",
+        "lastname": "Christian"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Comic Book Guy"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Declan",
+        "lastname": "Desmond"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Disco Stu"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Duffman"
+    },
+    {
+        "\ufeffsalutation": "Mr.",
+        "firstname": "",
+        "lastname": "Fat Tony"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Maude",
+        "lastname": "Flanders"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Ned",
+        "lastname": "Flanders"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Rod",
+        "lastname": "Flanders"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Todd",
+        "lastname": "Flanders"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Frankie",
+        "lastname": "the Squealer"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "John",
+        "lastname": "Frink"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Baby",
+        "lastname": "Gerald"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Ginger",
+        "lastname": "Flanders"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Gino",
+        "lastname": "Terwilliger"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Alice",
+        "lastname": "Glick"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Gloria",
+        "lastname": "Jailbird"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Barney",
+        "lastname": "Gumble"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Gil",
+        "lastname": "Gunderson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Constance",
+        "lastname": "Harm"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Herman",
+        "lastname": "Hermann"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Bernice",
+        "lastname": "Hibbert"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Julius",
+        "lastname": "Hibbert"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Elizabeth",
+        "lastname": "Hoover"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Lionel",
+        "lastname": "Hutz"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Jimbo",
+        "lastname": "Jones"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Rachel",
+        "lastname": "Jordan"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Edna",
+        "lastname": "Krabappel"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Hyman",
+        "lastname": "Krustofsky"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Krusty",
+        "lastname": "Krustofsky"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Cookie",
+        "lastname": "Kwan"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Dewey",
+        "lastname": "Largo"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Lenny",
+        "lastname": "Leonard"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Lewis",
+        "lastname": "Clark"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Helen",
+        "lastname": "Lovejoy"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Timothy",
+        "lastname": "Lovejoy"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Lugash"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Lurleen",
+        "lastname": "Lumpkin"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Otto",
+        "lastname": "Mann"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Horatio",
+        "lastname": "McCallister"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Roger",
+        "lastname": "Meyers Jr."
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Troy",
+        "lastname": "McClure"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Hans",
+        "lastname": "Moleman"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Marvin",
+        "lastname": "Monroe"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Nelson",
+        "lastname": "Muntz"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Lance",
+        "lastname": "Murdock"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Bleeding Gums",
+        "lastname": "Murphy"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Lindsey",
+        "lastname": "Naegle"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Apu",
+        "lastname": "Nahasapeemapetilon"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Manjula",
+        "lastname": "Nahasapeemapetilon"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Sanjay",
+        "lastname": "Nahasapeemapetilon"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Arnie",
+        "lastname": "Pye"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Herbert",
+        "lastname": "Powell"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Janey",
+        "lastname": "Powell"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Ruth",
+        "lastname": "Powers"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Martin",
+        "lastname": "Prince"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Loren",
+        "lastname": "Pryor"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Joe",
+        "lastname": "Quimby"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Radioactive Man"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "The Rich Texan"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Luigi",
+        "lastname": "Risotto"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Nick",
+        "lastname": "Riviera"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Dave",
+        "lastname": "Shutton"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Robert",
+        "lastname": "Terwilliger"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Sideshow",
+        "lastname": "Mel"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Grampa",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Amber",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Mona",
+        "lastname": "Simpson"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Agnes",
+        "lastname": "Skinner"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Seymour",
+        "lastname": "Skinner"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Waylon",
+        "lastname": "Smithers"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Snake",
+        "lastname": "Jailbird"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Roy",
+        "lastname": "Snyder"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Jebediah",
+        "lastname": "Springfield"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Cletus",
+        "lastname": "Spuckler"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Brandine",
+        "lastname": "Spuckler"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Moe",
+        "lastname": "Szyslak"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Drederick",
+        "lastname": "Tatum"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Allison",
+        "lastname": "Taylor"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Cecil",
+        "lastname": "Terwilliger"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Johnny",
+        "lastname": "Tightlips"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "\u00dcter",
+        "lastname": "Z\u00f6rker"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Kirk",
+        "lastname": "Van Houten"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Luann",
+        "lastname": "Van Houten"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Milhouse",
+        "lastname": "Van Houten"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Clancy",
+        "lastname": "Wiggum"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Ralph",
+        "lastname": "Wiggum"
+    },
+    {
+        "\ufeffsalutation": "Ms",
+        "firstname": "Sarah",
+        "lastname": "Wiggum"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "",
+        "lastname": "Groundskeeper Willie"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Rainier",
+        "lastname": "Wolfcastle aka McBain"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Artie",
+        "lastname": "Ziff"
+    },
+    {
+        "\ufeffsalutation": "Mr",
+        "firstname": "Kearney",
+        "lastname": "Zzyzwicz"
+    }
+]
